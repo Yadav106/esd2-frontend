@@ -27,10 +27,7 @@ const App = () => {
   return (
     <div>
       <div className='text-center mt-[20px] text-[30px]'>
-        ESD Assignment
-      </div>
-      <div className='text-center text-[20px] m-[30px]'>
-        GROUP NUMBER 11 : 55, 56, 57, 59, 60
+        PS Project
       </div>
       <div className='flex flex-col justify-center items-center'>
         <button 
